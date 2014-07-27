@@ -1,9 +1,9 @@
 source ~/.gitshell-config.sh
 source ~/.git-prompt.sh
+source ~/.colors.sh
 
-PS1='\[\033[01;32m\]\u\[\033[00;34m\]@\[\033[01;32m\]\h \[\033[01;34m\]\W \[\033[00;31m\]$(__git_ps1 "(%s)")\[\033[01;34m\]$\[\033[00m\] '
+PROMPT_COMMAND='__git_ps1 "\[$BWhite\]______________________________________________________________________________________________________________\n\n\[$BGreen\]\u\[$BWhite\] at \[$BBlue\]\h\[$BWhite\] in \[$BCyan\]\w\[$BPurple\]" "\n\[$BRed\]#!\[$BWhite\] "'
+PS2="\[$BRed\][...] \[$BWhite\] "
 
 alias less='less -r'
 alias ls='ls -lFhq --color=always'
-
-

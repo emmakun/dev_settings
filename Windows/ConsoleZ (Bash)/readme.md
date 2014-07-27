@@ -10,7 +10,7 @@ console.xml
 
 #### Bash & Git configuration files
 
-The 3 files inside the _devkit_home_ folder should be copied into the current user's _home_ folder and renamed in order to start with a dot (i.e. _bash_profile => _.bash_profile_).
+The 3 files inside the _devkit_home_ folder should be copied into the current user's _home_ folder and renamed in order to start with a dot (i.e. _bash_profile_ => _.bash_profile_).
 
 bash_profile
 : Contains the settings for the aliases, prompt and comodities for the Bash shell. Also imports the external sources.

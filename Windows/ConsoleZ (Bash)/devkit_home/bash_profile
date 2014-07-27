@@ -1,0 +1,9 @@
+source ~/.gitshell-config.sh
+source ~/.git-prompt.sh
+
+PS1='\[\033[01;32m\]\u\[\033[00;34m\]@\[\033[01;32m\]\h \[\033[01;34m\]\W \[\033[00;31m\]$(__git_ps1 "(%s)")\[\033[01;34m\]$\[\033[00m\] '
+
+alias less='less -r'
+alias ls='ls -lFhq --color=always'
+
+

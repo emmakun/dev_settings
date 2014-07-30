@@ -1,4 +1,4 @@
-## ConsoleZ configuration files
+## ConsoleZ settings
 
 These files are the settings for the ConsoleZ app.
 

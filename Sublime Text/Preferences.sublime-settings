@@ -1,0 +1,16 @@
+{
+	"color_scheme": "Packages/User/MarkdownEditor-Dark (SL).tmTheme",
+	"font_face": "Input",
+	"font_size": 12,
+	"freesia_borderless": false,
+	"freesia_large_tabs": true,
+	"freesia_small_tabs": false,
+	"freesia_soft_tab_marker": false,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"theme": "Freesia.sublime-theme"
+}

@@ -15,7 +15,7 @@
 	<key>CursorType</key>
 	<integer>1</integer>
 	<key>ProfileCurrentVersion</key>
-	<real>2.02</real>
+	<real>2.04</real>
 	<key>ShowActiveProcessInTitle</key>
 	<false/>
 	<key>ShowCommandKeyInTitle</key>
@@ -31,7 +31,7 @@
 	<key>columnCount</key>
 	<integer>120</integer>
 	<key>name</key>
-	<string>Terminal</string>
+	<string>Light</string>
 	<key>rowCount</key>
 	<integer>40</integer>
 	<key>shellExitAction</key>
